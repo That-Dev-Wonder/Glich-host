@@ -5,7 +5,7 @@ from keep_alive import keep_alive
 import asyncio
 
 # Set your bot token directly here
-TOKEN = 'MTI0ODQ3Njc3NTU3OTc3OTA5NA.Gg3M-H.oGuoOQYIVGFrUHUUauyxu-TFlQnI1UK7fNsgNo'  # Replace with your actual bot token
+TOKEN = ''  # Replace with your actual bot token
 
 # Set up intents
 intents = discord.Intents.default()

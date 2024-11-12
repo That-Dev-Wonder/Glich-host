@@ -1,0 +1,11 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "A Discord bot with Flask",
+    "main": "index.js",
+    "scripts": {
+      "start": "bash start.sh"
+    },
+    "dependencies": {
+    }
+  }
